@@ -1,0 +1,25 @@
+{
+  "name": "el-table-sticky",
+  "version": "0.0.1",
+  "description": "Element ui table Head always stick to the top of the screen",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsoncheg/el-table-sticky.git"
+  },
+  "keywords": [
+    "element",
+    "ui",
+    "table"
+  ],
+  "author": "johnsoncheg@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnsoncheg/el-table-sticky/issues"
+  },
+  "homepage": "https://github.com/johnsoncheg/el-table-sticky#readme",
+  "peerDependencies": {
+    "vue": "^2.5.16",
+    "element-ui": "^2.3.2"
+  }
+}
